@@ -22,4 +22,4 @@ $ cp warcraft1/json1.js warcraft3/json1.js
 17) вывести несколько первых строк из текстового файла grep 'Trall' orcsvshumans1.txt
 18) вывести несколько последних строк из текстового файла - $ grep -e 'Trall' -e Arthas orcsvshumans1.txt
 19) просмотреть содержимое длинного файла (команда less) изучите как она работает. - less orcsvshumans1.txt
-20)c вывести дату и время - date 
+20)c вывести дату и время - date) 
